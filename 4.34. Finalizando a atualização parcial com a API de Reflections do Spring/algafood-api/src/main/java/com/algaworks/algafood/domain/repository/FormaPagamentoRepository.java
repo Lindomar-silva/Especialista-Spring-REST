@@ -1,0 +1,13 @@
+package com.algaworks.algafood.domain.repository;
+
+import java.util.List;
+
+import com.algaworks.algafood.domain.model.FormaPagamento;
+
+public interface FormaPagamentoRepository {
+
+	List<FormaPagamento> listarTodos();
+	FormaPagamento buscar(Long pgamentoId);
+	FormaPagamento salvar(FormaPagamento formaPagamento);
+	void remover(FormaPagamento formaPagamento);
+}
