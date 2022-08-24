@@ -1,0 +1,7 @@
+{
+    "nome": "Restaurante Sabor Paranaense",
+    "taxaFrete": 5.5,
+    "cozinha": {
+        "id": 2
+    }
+}
