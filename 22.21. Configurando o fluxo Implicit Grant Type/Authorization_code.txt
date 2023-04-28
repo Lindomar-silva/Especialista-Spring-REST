@@ -1,0 +1,1 @@
+http://localhost:8081/oauth/authorize?response_type=token&client_id=webadmin&state=abc&http://aplicacao-cliente

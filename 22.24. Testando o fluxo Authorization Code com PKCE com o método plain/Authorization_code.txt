@@ -1,0 +1,8 @@
+http://localhost:8081/oauth/authorize?response_type=code&client_id=foodanalytics&redirect_uri=http://localhost:8082
+
+
+Code Verifier: ads5d6s5fs9sd6dsds9564656sfs63
+Code Challenge: ads5d6s5fs9sd6dsds9564656sfs63
+
+http://localhost:8081/oauth/authorize?response_type=code&client_id=foodanalytics&redirect_uri=http://localhost:8082
+&code_challenge=ads5d6s5fs9sd6dsds9564656sfs63&code_challenge_method=plain
