@@ -1,0 +1,7 @@
+{
+    "nome": "Restaurante Panela de Ferro",
+    "taxaFrete": 3.50,
+    "cozinha": {
+        "id": 1
+    }
+}
