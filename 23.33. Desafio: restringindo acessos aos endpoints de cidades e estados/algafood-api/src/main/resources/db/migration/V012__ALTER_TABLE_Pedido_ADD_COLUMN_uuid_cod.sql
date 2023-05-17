@@ -1,0 +1,2 @@
+ALTER TABLE pedido ADD COLUMN uuid_cod VARCHAR(36) NOT NULL AFTER id;
+ALTER TABLE pedido ADD CONSTRAINT uk_uuid_cod UNIQUE KEY (uuid_cod);
