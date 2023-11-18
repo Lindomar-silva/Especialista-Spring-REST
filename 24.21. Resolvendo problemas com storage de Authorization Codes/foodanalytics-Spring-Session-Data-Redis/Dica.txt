@@ -1,0 +1,7 @@
+1- EXECUTAR O CÓDIGO ABAIXO DENTRO DA PASTA 'foodanalytics'
+python3 -m http.server 8082
+
+2- EXECUTAR 'Authorization Code - Solicitar Token.html' (E AUTENTICAR)
+
+Usuário: joao.ger@algafood.com
+Senha: 123
